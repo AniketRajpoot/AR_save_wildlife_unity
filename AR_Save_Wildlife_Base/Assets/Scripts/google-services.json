@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734266003420",
+    "firebase_url": "https://chuu-89699.firebaseio.com",
+    "project_id": "chuu-89699",
+    "storage_bucket": "chuu-89699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734266003420:android:c4de24ca12d86cbf",
+        "android_client_info": {
+          "package_name": "com.ARcore.Arpan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734266003420-s0mcimbheanj1f9o4jovdudhj7tp8uud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtBLyWsS-uePbenqjlhL3SdiB_AAXCDJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734266003420-s0mcimbheanj1f9o4jovdudhj7tp8uud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
