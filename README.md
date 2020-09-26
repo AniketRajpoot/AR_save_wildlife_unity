@@ -11,7 +11,7 @@ To find a way to make people aware of the current grievous situation of the wild
 ## Motivation
 1) Make an interactive AR Game, in which people can make their own wildlfie environment. 
 2) Through this game people can be made aware about the problem and also educate them on how they can individually help on any level to eradicate this problem. 
-3) There will be tasks which will be given to the users that they will have to complete every week to get extra points in the game. (This will be regularly updated through database, which can be done easily. But we were not able to because of time constraint and our college exams) 
+3) There will be tasks which will be given to the users that they will have to complete every week to get extra points in the game. (This will be regularly updated through database, which can be done easily.) 
 4) Donations can be done to the various wildlife organisations through the app.
 
 ## Implementation
@@ -25,5 +25,6 @@ We also designed a basic user-interface through which all the actions on animals
 
 ## Acknowledgements
 
-This project is built on top of [GoogleARcore](https://developers.google.com/ar) using [Unity](https://unity.com/). And was  part of [Hack Your Reality](https://hackyourreality.hackerearth.com/) hackathon on hackerearth.
+This project is built on top of [GoogleARcore](https://developers.google.com/ar) using [Unity](https://unity.com/). 
+And was  part of [Hack Your Reality](https://hackyourreality.hackerearth.com/) hackathon on hackerearth.
 Thanks to [Arjun](https://github.com/arjunsinghrathore) for his collabration. 
